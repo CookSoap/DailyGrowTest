@@ -3,7 +3,7 @@
 ## ИНСТАЛЯЦИЯ
 Склонируйте проект в директорию с сервером:
 
-https://github.com/Null-ch/MAMP_laravel_test_task.git !!!!!!!!!!!!!!!!!!
+https://github.com/CookSoap/DailyGrowTest
 
 Затем, открыв из папки проекта консоль, введите команду для установки пакетов Laravel:
 
@@ -16,12 +16,6 @@ php artisan migrate
 В той же консоли для запуска веб-приложения:
 
 php artisan serve
-
-В новой консоли для запуска NodeJS и корректной работы введите команду:
-
-npm install npm run dev
-
-Откройте сайт в браузере по адресу http://localhost:8000
 
 ## Run schedule
 
