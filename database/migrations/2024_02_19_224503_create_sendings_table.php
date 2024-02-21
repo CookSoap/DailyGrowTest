@@ -16,7 +16,7 @@ return new class extends Migration
             $table->string('title');
             $table->string('text');
             $table->string('login', 255)->nulable('false');
-            $table->string('password', 255)->nulable('false');
+            $table->longText('password')->nulable('false');
             $table->string('addressee');
             $table->string('time');
         });
