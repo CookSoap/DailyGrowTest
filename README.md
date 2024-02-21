@@ -17,11 +17,9 @@ php artisan migrate
 
 php artisan serve
 
-В новой консоли для запуска NodeJS и корректной работы введите команду:
+<!-- В новой консоли для запуска NodeJS и корректной работы введите команду:
 
-npm install npm run dev
-
-Откройте сайт в браузере по адресу http://localhost:8000
+npm install npm run dev -->
 
 ## Run schedule
 
