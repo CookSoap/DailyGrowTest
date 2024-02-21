@@ -20,6 +20,8 @@ https://github.com/CookSoap/DailyGrowTest
 
 composer install
 
+Создайте и сконфигурируйте .env
+
 Провести миграции:
 
 php artisan migrate
@@ -29,6 +31,10 @@ php artisan migrate
 npm install 
 
 npm run build
+
+Создайте ключ приложения:
+
+php artisan key:generate
 
 Запустить проект:
 
