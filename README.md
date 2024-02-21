@@ -24,6 +24,12 @@ composer install
 
 php artisan migrate
 
+Установить зависимости:
+
+npm install 
+
+npm run build
+
 Запустить проект:
 
 php artisan serve
